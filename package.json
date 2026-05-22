@@ -1,0 +1,11 @@
+{
+  "scripts": {
+    "dev": "npm run dev --prefix portfolio",
+    "build": "npm run build --prefix portfolio",
+    "start": "npm run start --prefix portfolio",
+    "lint": "npm run lint --prefix portfolio"
+  },
+  "dependencies": {
+    "lucide-react": "^1.14.0"
+  }
+}
